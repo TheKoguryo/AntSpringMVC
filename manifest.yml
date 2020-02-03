@@ -6,4 +6,4 @@ applications:
   random-route: true
   path: target/helloproject.war
   buildpacks:
-  - java_buildpack
+  - java_buildpack_offline
